@@ -101,6 +101,9 @@ Comprehensive ML project predicting student academic success using classificatio
   <a href="https://github.com/tahamohmadf19-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.kaggle.com/tahamohmad">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
 ---
