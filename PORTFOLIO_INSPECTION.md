@@ -15,3 +15,8 @@ This file records the GitHub portfolio polish inspection summary.
 - Add documentation placeholders.
 - Add missing environment examples where relevant.
 - Recommend archive/private actions without applying them.
+
+## Manual actions
+
+- Update GitHub profile bio from the profile settings page.
+- Reorder pinned repositories manually from the profile page.
